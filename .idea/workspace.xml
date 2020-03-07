@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19e85a1c-b566-49a0-9a48-151bc975b91a" name="Default Changelist" comment="" />
+    <list default="true" id="19e85a1c-b566-49a0-9a48-151bc975b91a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicLibraryClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Purse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +30,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XAZ6SPAG2J4hGZiPsTTelm8L6P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,13 +42,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Documents" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
-    <configuration name="FrequencyChart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FrequencyChart">
+    <configuration name="ColorChooser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ColorChooser" />
+      <module name="Unit-6-Stotz" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrequencyChart" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FrequencyChart" />
       <module name="Unit-6-Stotz" />
       <method v="2">
@@ -37,7 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FrequencyChart" />
+        <item itemvalue="Application.ColorChooser" />
       </list>
     </recent_temporary>
   </component>
@@ -71,29 +104,45 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="277" y="96" key="#Project_Structure/0.0.1368.872@0.0.1368.872" timestamp="1580490712322" />
-    <state x="466" y="193" key="FileChooserDialogImpl" timestamp="1580492258292">
+    <state x="140" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582220706590">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="466" y="193" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1580492258292" />
-    <state width="1326" height="227" key="GridCell.Tab.0.bottom" timestamp="1580944347353">
+    <state x="140" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1582220706590" />
+    <state x="466" y="193" key="FileChooserDialogImpl" timestamp="1583513039798">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1580944347353" />
-    <state width="1326" height="227" key="GridCell.Tab.0.center" timestamp="1580944347353">
+    <state x="466" y="193" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1583513039798" />
+    <state width="1326" height="227" key="GridCell.Tab.0.bottom" timestamp="1581094904627">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1580944347353" />
-    <state width="1326" height="227" key="GridCell.Tab.0.left" timestamp="1580944347353">
+    <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1581094904627" />
+    <state width="1326" height="227" key="GridCell.Tab.0.center" timestamp="1581094904627">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1580944347353" />
-    <state width="1326" height="227" key="GridCell.Tab.0.right" timestamp="1580944347353">
+    <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1581094904627" />
+    <state width="1326" height="227" key="GridCell.Tab.0.left" timestamp="1581094904626">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1580944347353" />
+    <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1581094904626" />
+    <state width="1326" height="227" key="GridCell.Tab.0.right" timestamp="1581094904627">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1581094904627" />
+    <state x="380" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1583255041282">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="380" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1583255041282" />
     <state x="377" y="33" width="613" height="804" key="find.popup" timestamp="1580492368681">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="377" y="33" width="613" height="804" key="find.popup/0.0.1368.872@0.0.1368.872" timestamp="1580492368681" />
+    <state x="109" y="58" key="new project wizard" timestamp="1583513049896">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="109" y="58" key="new project wizard/0.0.1368.872@0.0.1368.872" timestamp="1583513049896" />
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1581095191528">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1581095191528" />
   </component>
 </project>
